@@ -37,6 +37,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/fair-adapt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font color=red>[CIKM'2023]</font> [Adaptation Speed Analysis for Fairness-aware Causal Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614774)
+  
 **Yujie Lin**, Chen Zhao, Minglai Shao, Xujiang Zhao, Haifeng Chen
 </div>
 </div>
