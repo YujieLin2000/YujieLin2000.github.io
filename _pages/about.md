@@ -25,13 +25,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 
 # 📝 Publications 
-
-[MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
-Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li
-
-[FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
-**Yujie Lin**, Dong Li, Chen Zhao, Minglai Shao, Guihong Wan
-
+(<u>underline</u> indicates equal contribution, * indicates corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/DCFDG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,21 +34,28 @@ Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li
 </div>
 </div>
 
-[Supervised Algorithmic Fairness in Distribution Shifts: A Survey](https://arxiv.org/pdf/2402.01327)
-Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin**, Qin Tian
+[<font color=red>[IJCAI'2024]</font> Supervised Algorithmic Fairness in Distribution Shifts: A Survey](https://arxiv.org/pdf/2402.01327)
+Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin\***, Qin Tian
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/fair-adapt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/fair-adapt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Adaptation Speed Analysis for Fairness-aware Causal Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614774)
-**Yujie Lin**, Chen Zhao, Minglai Shao, Xujiang Zhao, Haifeng Chen, **CIKM 2023**
+[<font color=red>[CIKM'2023]</font> Adaptation Speed Analysis for Fairness-aware Causal Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614774)
+**Yujie Lin**, Chen Zhao, Minglai Shao, Xujiang Zhao, Haifeng Chen
 </div>
 </div>
 
+[<font color=red>[KDD'2025]</font> MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
+Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li
 
-[Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
-Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun, **Knowledge-based System**
+[<font color=red>[ICASSP'2025]</font> Hypergraph-Based Dynamic Graph Node Classification](https://arxiv.org/pdf/2412.20321)
+Xiaoxu Ma, Chen Zhao, Minglai Shao, **Yujie Lin**
 
+[<font color=red>[Knowledge-based System 2023]</font> Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
+Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 
+# 📝 Preprint
+[<font color=red>[Arxiv Preprint]</font> FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
+**<u>Yujie Lin</u>**, <u>Dong Li</u>, Chen Zhao, Minglai Shao, Guihong Wan
 
 
 # 🎖 Honors and Awards
@@ -64,8 +65,8 @@ Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun, **Know
  
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, Tianjin University. 
-- *2018.09 - 2022.06*, Fuzhou University. 
+- *2022.09 - 2025.03 (now)*, Tianjin University, Master. 
+- *2018.09 - 2022.06*, Fuzhou University, Bachelor. 
 
 # 💬 Invited Talks
 
