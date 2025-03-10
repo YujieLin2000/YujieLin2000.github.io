@@ -30,6 +30,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/DCFDG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font color=red>[IJCAI'2024]</font> [Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments](https://arxiv.org/pdf/2309.13005))
+  
 **Yujie Lin**, Chen Zhao, Minglai Shao, Baoluo Meng, Xujiang Zhao, Haifeng Chen
 </div>
 </div>
