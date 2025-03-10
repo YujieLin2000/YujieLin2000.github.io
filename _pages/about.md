@@ -43,15 +43,15 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 -<font color=red>[IJCAI'2024]</font> [Supervised Algorithmic Fairness in Distribution Shifts: A Survey](https://arxiv.org/pdf/2402.01327)
 Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin\***, Qin Tian
-</div>
+
 
 -<font color=red>[KDD'2025]</font> [MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
 Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li
-</div>
+
 
 -<font color=red>[ICASSP'2025]</font> [Hypergraph-Based Dynamic Graph Node Classification](https://arxiv.org/pdf/2412.20321)
 Xiaoxu Ma, Chen Zhao, Minglai Shao, **Yujie Lin**
-</div>
+
 
 -<font color=red>[Knowledge-based System 2023]</font> [Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
 Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
