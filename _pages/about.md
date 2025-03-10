@@ -63,6 +63,7 @@ Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 
 # 📝 Preprint
 -<font color=red>[Arxiv Preprint]</font> [FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
+
 **<u>Yujie Lin</u>**, <u>Dong Li</u>, Chen Zhao, Minglai Shao, Guihong Wan
 
 
