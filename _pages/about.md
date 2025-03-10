@@ -21,7 +21,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+ - *2025.03*: &nbsp;🎉🎉 I graduated from Tianjin University with a master's degree！ 
 
 
 # 📝 Publications 
@@ -44,17 +44,17 @@ Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin\***, Qin Tian
 </div>
 </div>
 
-[<font color=red>[KDD'2025]</font> MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
+-[<font color=red>[KDD'2025]</font> MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
 Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li
 
-[<font color=red>[ICASSP'2025]</font> Hypergraph-Based Dynamic Graph Node Classification](https://arxiv.org/pdf/2412.20321)
+-[<font color=red>[ICASSP'2025]</font> Hypergraph-Based Dynamic Graph Node Classification](https://arxiv.org/pdf/2412.20321)
 Xiaoxu Ma, Chen Zhao, Minglai Shao, **Yujie Lin**
 
-[<font color=red>[Knowledge-based System 2023]</font> Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
+-[<font color=red>[Knowledge-based System 2023]</font> Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
 Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 
 # 📝 Preprint
-[<font color=red>[Arxiv Preprint]</font> FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
+-[<font color=red>[Arxiv Preprint]</font> FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
 **<u>Yujie Lin</u>**, <u>Dong Li</u>, Chen Zhao, Minglai Shao, Guihong Wan
 
 
@@ -73,4 +73,5 @@ Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 - *2024.10*, Algorithmic Fairness under Distribution Shifts, AI time (Tsinghua University)  \| [\[video\]](https://www.bilibili.com/video/BV1ZcmTYGE7P/?spm_id_from=333.337.search-card.all.click)
 
 # 💻 Internships
+TBA
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
