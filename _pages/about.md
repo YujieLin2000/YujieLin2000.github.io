@@ -58,6 +58,7 @@ Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin\***, Qin Tian
 
 
 -<font color=red>[Knowledge-based System 2023]</font> [Learning graph deep autoencoder for anomaly detection in multi-attributed networks](https://www.sciencedirect.com/science/article/pii/S0950705122011807)
+
 Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 
 # 📝 Preprint
