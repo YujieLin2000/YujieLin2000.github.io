@@ -30,6 +30,9 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 [FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
 **Yujie Lin**, Dong Li, Chen Zhao, Minglai Shao, Guihong Wan, **Arxiv Preprint**
 
+[MLDGG: Meta-Learning for Domain Generalization on Graphs](https://arxiv.org/pdf/2411.12913)
+Qin Tian, Chen Zhao, Minglai Shao, Wenjun Wang, **Yujie Lin**, Dong Li, **KDD 2025**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments](https://arxiv.org/pdf/2309.13005))
