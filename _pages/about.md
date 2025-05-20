@@ -21,15 +21,23 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 
 # 🔥 News
+ - *2025.05*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2025.
  - *2025.03*: &nbsp;🎉🎉 I graduated from Tianjin University with a master's degree！ 
 
 
 # 📝 Publications 
 (<u>underline</u> indicates equal contribution, * indicates corresponding author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/FADE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font color=red>[IJCAI'2025]</font> [FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495?)
+  
+**<u>Yujie Lin</u>**, <u>Dong Li</u>, Minglai Shao, Guihong Wan, Chen Zhao
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/DCFDG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<font color=red>[IJCAI'2024]</font> [Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments](https://arxiv.org/pdf/2309.13005))
+<font color=red>[IJCAI'2024]</font> [Towards Counterfactual Fairness-aware Domain Generalization in Changing Environments](https://arxiv.org/pdf/2309.13005)
   
 **Yujie Lin**, Chen Zhao, Minglai Shao, Baoluo Meng, Xujiang Zhao, Haifeng Chen
 </div>
@@ -63,9 +71,8 @@ Minglai Shao, Dong Li, Chen Zhao, Xintao Wu, **Yujie Lin\***, Qin Tian
 Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
 
 # 📝 Preprint
--<font color=red>[Arxiv Preprint]</font> [FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495)
 
-**<u>Yujie Lin</u>**, <u>Dong Li</u>, Chen Zhao, Minglai Shao, Guihong Wan
+
 
 
 # 🎖 Honors and Awards
