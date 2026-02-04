@@ -32,7 +32,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 <div class='paper-box-text' markdown="1">
 <font color=red>[ICLR'2026]</font> [Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts]
   
-**<u>Yujie Lin</u>**, <u>Dong Li</u>, Minglai Shao, Guihong Wan, Chen Zhao
+**Yujie Lin**, Kunquan Li, Yixuan Liao, Xiaoxin Chen, Jinsong Su
 </div>
 </div>
 
