@@ -27,6 +27,14 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 # 📝 Publications 
 (<u>underline</u> indicates equal contribution, * indicates corresponding author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BBA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font color=red>[ICLR'2026]</font> [Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts]
+  
+**<u>Yujie Lin</u>**, <u>Dong Li</u>, Minglai Shao, Guihong Wan, Chen Zhao
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/FADE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font color=red>[IJCAI'2025]</font> [FADE: Towards Fairness-aware Data Generation for Domain Generalization via Classifier-Guided Score-based Diffusion Models](https://arxiv.org/pdf/2406.09495?)
