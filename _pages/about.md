@@ -30,7 +30,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 (<u>underline</u> indicates equal contribution, * indicates corresponding author)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<font color=red>[ICLR'2026]</font> [Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts]
+<font color=red>[ICLR'2026]</font> [Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts](https://arxiv.org/pdf/2602.04398)
   
 **Yujie Lin**, Kunquan Li, Yixuan Liao, Xiaoxin Chen, Jinsong Su
 </div>
