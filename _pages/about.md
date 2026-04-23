@@ -21,6 +21,7 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 
 # 🔥 News
+ - *2026.04*: &nbsp;🎉🎉 I will serve as a reviewer for NeurIPS 2026.
  - *2026.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026.
  - *2025.05*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2025.
  - *2025.03*: &nbsp;🎉🎉 I graduated from Tianjin University with a master's degree！ 
