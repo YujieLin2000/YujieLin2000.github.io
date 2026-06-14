@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yujie Lin, a third-year master's student at Tianjin University. My research interests include trustworthy AI and generative models. Recently, I have been exploring large language models.
-
+My name is Yujie Lin, a PhD student at Xiamen University. My research interests include trustworthy LLMs and generative models. 
 
 # 🔥 News
  - *2026.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2026.
@@ -101,7 +100,8 @@ Minglai Shao, **Yujie Lin**, Qiyao Peng, Jun Zhao, Zhan Pei, Yueheng Sun
  
 
 # 📖 Educations
-- *2022.09 - 2025.03 (now)*, Tianjin University, Master. 
+- *2025.09 - now*, Xiamen University, PhD Student.
+- *2022.09 - 2025.03*, Tianjin University, Master. 
 - *2018.09 - 2022.06*, Fuzhou University, Bachelor. 
 
 # 💬 Invited Talks
