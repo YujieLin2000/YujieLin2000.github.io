@@ -30,6 +30,14 @@ My name is Yujie Lin, a third-year master's student at Tianjin University. My re
 
 # 📝 Publications 
 (<u>underline</u> indicates equal contribution, * indicates corresponding author)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/zr3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font color=red>[ICML'2026]</font> [ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models](https://icml.cc/virtual/2026/poster/60862)
+  
+**<u>Yujie Lin</u>**, <u>Chengyi Yang</u>, Zhishang Xiang, Yiping Song, Jinsong Su
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BBA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font color=red>[ICLR'2026]</font> [Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts](https://arxiv.org/pdf/2602.04398)
