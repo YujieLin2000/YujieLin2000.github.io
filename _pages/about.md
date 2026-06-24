@@ -20,6 +20,7 @@ redirect_from:
 My name is Yujie Lin, a PhD student at Xiamen University. My research interests include trustworthy LLMs and generative models. 
 
 # 🔥 News
+ - *2026.06*: &nbsp;🎉🎉 I will serve as a reviewer for IEEE Transactions on Dependable and Secure Computing (TDSC).
  - *2026.05*: &nbsp;🎉🎉 One paper was accepted by ICML 2026.
  - *2026.04*: &nbsp;🎉🎉 I will serve as a reviewer for NeurIPS 2026.
  - *2026.01*: &nbsp;🎉🎉 One paper was accepted by ICLR 2026.
